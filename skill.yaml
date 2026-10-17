@@ -1,0 +1,10 @@
+name: local_trilingual_translation
+title: Local trilingual translation
+description: 中式英语过渡法：把英文长难句拆成平铺短句的三段式（英文原文/中式英语/标准中文）阅读理解工具。当用户要求按中式英语过渡法翻译、拆解英文长句时触发。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
