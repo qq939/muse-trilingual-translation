@@ -53,6 +53,12 @@
 > 中式英语：team last week interviewed that candidate, that candidate next month joins the project
 > 标准中文：团队上周面试的那位候选人，下个月加入项目。
 
+中文原文输入时同样适用：先给出对应的英文，再按同样规则做中式英语拆解。
+
+> 标准中文：那是几个身材魁梧的汉子，全身包裹在暗沉的铁甲里，头盔下的眼睛锐利如鹰，手中的长枪枪尖泛着幽冷的寒光。
+> 英文：There were several burly men, their whole bodies wrapped in dark, dull iron armor, eyes under their helmets sharp as eagles', the spear tips in their hands gleaming with a cold, eerie light.
+> 中式英语：there stand several burly men, men whole body wrapped in dark dull iron armor, helmet under eyes sharp like eagle, men hands hold long spears, spear tips gleam cold eerie light
+
 ## 踩坑记录
 - 定语从句的关系代词（who/that/which）是虚词，直接扔掉，不要试图在中式英语里保留。
 - 时态不用纠结：中式英语不讲语法，过去时态用时间状语（yesterday/last night）表达即可，动词用原形。
